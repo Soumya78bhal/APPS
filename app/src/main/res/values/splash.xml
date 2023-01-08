@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.LaughLy">
+        <item name="android:windowSplashScreenAnimatedIcon"> @drawable/jokes_icon_3__1_</item>
+
+        <item name="android:windowSplashScreenBackground">#9696D6</item>
+
+        <item name="android:windowSplashScreenAnimationDuration">5000</item>
+
+    </style>
+</resources>
